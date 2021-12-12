@@ -4,6 +4,7 @@ namespace HW_3
 {
     class Program
     {
+
         public static string RandomName()
         {
             Random random = new();
